@@ -1,0 +1,6 @@
+Introduction to Git -Class 1
+Introduction to version control system
+COMMANDS:
+git --version
+git init 
+git add filename
