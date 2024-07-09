@@ -1,0 +1,14 @@
+GIT COMMANDS-CLASS 2
+Basic workflow expained
+//modification
+//staging 
+//commit
+git status--> Tells the status of files
+git rm --cached <name>
+git add <filename>
+git commit -m "Initial commit"
+git log
+git global
+git config user.name <name>
+git config --global user.mail "mail"
+
