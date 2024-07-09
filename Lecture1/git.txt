@@ -1,0 +1,3 @@
+Introduction-Class 0
+This lecture was about basic introduction to git how to intialize the repositoty and what is git.
+Git Github Introduction 
